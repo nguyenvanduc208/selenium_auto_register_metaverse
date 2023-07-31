@@ -1,0 +1,8 @@
+Vào thư mục vừa tải và giải nén (Có file main ở trong)
+Ấn vào đường dẫn thư mục gõ "cmd" -> Enter
+
+Lần đầu tiên:
+pip install -r requirements.txt
+
+Từ lần sau:
+python main.py
